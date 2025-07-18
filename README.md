@@ -5,7 +5,9 @@ This repository contains an interactive dashboard built in Microsoft Excel to an
 
 ## Dashboard Preview
 
-![Dashboard Preview](DashBoard%20Image.jpg)
+![Dashboard Preview](DashBoard Image.jpg)
+
+
 
 
 ---
